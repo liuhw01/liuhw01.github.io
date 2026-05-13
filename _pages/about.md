@@ -33,8 +33,8 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 - *2024.04*: &nbsp;🎉🎉 Congratulations to our Virtual Human Group for winning all five championships in the 6th ABAW Competition at CVPR 2024. 🏆
 - *2024.02*: &nbsp;🎉🎉 Our work on Norface has been accepted by ECCV 2024.
 - *2024.02*: &nbsp;🎉🎉 Our work on diffsfsr has been accepted by CVPR 2024.
-- *2025.03*: &nbsp;🎉🎉 Our paper "Emotion knowledge-based fine-grained facial expression recognition." was accepted by Neurocomputing.
-- *2024.09*: &nbsp;🎉🎉 Our paper "A review of intelligent music generation systems. " was accepted by Neural Comput. Appl.
+- *2024.03*: &nbsp;🎉🎉 Our paper "Emotion knowledge-based fine-grained facial expression recognition." was accepted by Neurocomputing.
+- *2024.03*: &nbsp;🎉🎉 Our paper "A review of intelligent music generation systems. " was accepted by Neural Comput. Appl.
 - *2023.07*: &nbsp;🎉🎉 Our paper "FEDA: Fine-grained emotion difference analysis for facial expression recognition. " was accepted by BSPC.
 - *2023.07*: &nbsp;🎉🎉 Our paper "Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition" was accepted by ACM MM 2024.
 - *2022.05*: &nbsp;🎉🎉 Our paper "Adaptive Multilayer Perceptual Attention Network for Facial Expression Recognition" was accepted by IEEE TCSVT.
