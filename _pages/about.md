@@ -104,7 +104,7 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 
 # 📫 Services
 
-- Sub-reviewer: ECCV 26, ACMMM 24&25 
+- Conference reviewer: ECCV 26, ACMMM 24&25, CVPR 25
 - Journal Reviewer: IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Multimedia, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Affective Computing, IEEE Transactions on Industrial Informatics, IEEE Signal Processing Letters, IEEE Access, IEEE/CAA Journal of Automatica Sinica
 
 
