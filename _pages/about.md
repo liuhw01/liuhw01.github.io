@@ -28,15 +28,16 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 One paper got accepted by TSE.
-- *2026.03*: &nbsp;🎉🎉 I have joined Nankai University as an associate professor.
-- *2026.01*: &nbsp;🎉🎉 Our paper "Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem" was accepted by Uesnix Security 2026.
-- *2025.08*: &nbsp;🎉🎉 Our paper "Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts" and "Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study" were accepted by ASE 2025.
-- *2025.03*: &nbsp;🎉🎉 Our paper "Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration" was accepted by ISSTA 2025.
-- *2024.09*: &nbsp;🎉🎉 I joined the Hong Kong University of Science and Technology as a postdoctoral scholar.
-- *2024.07*: &nbsp;🎉🎉 Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024.
-- *2024.07*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an ACM SIGSOFT Distinguished Paper award! 🏆
-- *2024.05*: &nbsp;🎉🎉 Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024.
+- *2025.03*: &nbsp;🎉🎉 Our work on multi-modal expressive personality recognition has been made public.
+- *2024.11*: &nbsp;🎉🎉 Our paper "Prior-based Objective Inference Mining Potential Uncertainty for Facial Expression Recognition" has been made public.
+- *2024.04*: &nbsp;🎉🎉 Congratulations to our Virtual Human Group for winning all five championships in the 6th ABAW Competition at CVPR 2024. 🏆
+- *2024.02*: &nbsp;🎉🎉 Our work on Norface has been accepted by ECCV 2024.
+- *2024.02*: &nbsp;🎉🎉 Our work on diffsfsr has been accepted by CVPR 2024.
+- *2025.03*: &nbsp;🎉🎉 Our paper "Emotion knowledge-based fine-grained facial expression recognition." was accepted by Neurocomputing.
+- *2024.09*: &nbsp;🎉🎉 Our paper "A review of intelligent music generation systems. " was accepted by Neural Comput. Appl.
+- *2023.07*: &nbsp;🎉🎉 Our paper "FEDA: Fine-grained emotion difference analysis for facial expression recognition. " was accepted by BSPC.
+- *2023.07*: &nbsp;🎉🎉 Our paper "Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition" was accepted by ACM MM 2024.
+- *2022.05*: &nbsp;🎉🎉 Our paper "Adaptive Multilayer Perceptual Attention Network for Facial Expression Recognition" was accepted by IEEE TCSVT.
 
 <!-- - *2024.05*: &nbsp;🎉🎉 I have passed my Ph.D thesis defense.
 - *2024.04*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024.
