@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Han Liu's Homepage"
-description              : "He is an associate professor working on software engineering and security."
-repository               : "helayliu/helayliu.github.io"
+title                    : "Hanwei Liu's Homepage"
+description              : "A passionate researcher, a Huawei TopMind, currently exploring AI infra, AIGC, and 3D reconstruction."
+repository               : "liuhw01/liuhw01.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,14 +24,14 @@ bibtex                   : "assets/bibtex/myref.bib"
 
 # Site Author
 author:
-  name             : "Han Liu (刘晗)"
+  name             : "Hanwei Liu (刘汉伟)"
   avatar           : "/images/photo.jpg"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
-  employer         :
+  bio              : "A passionate researcher, a Huawei TopMind, currently exploring AI infra, AIGC, and 3D reconstruction."
+  location         : "Shanghai, China"
+  employer         : "Huawei"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=jUBnlCoAAAAJ&hl=en"
-  email            : 
+  googlescholar    : "https://scholar.google.com/citations?user=0yCTQFEAAAAJ&hl=zh-CN"
+  email            : liuhw01@gmail.com
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -40,21 +40,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HelayLiu" # e.g., "github username"
+  github           : "liuhw01" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  # e.g., "linkedin username"
-  dblp             : "https://dblp.uni-trier.de/pid/35/2899-12.html"
-  orcid            : "https://orcid.org/0009-0000-8384-7933" # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/220/7925.html"
+  orcid            : "https://orcid.org/0000-0003-0568-8708" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "liuhan555"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
