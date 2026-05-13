@@ -108,10 +108,3 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 - Journal Reviewer: IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Multimedia, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Affective Computing, IEEE Transactions on Industrial Informatics, IEEE Signal Processing Letters, IEEE Access, IEEE/CAA Journal of Automatica Sinica
 
 
-# 🎖 Honors and Awards
-- Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, Shanghai Association of Artificial Intelligence (SAAI), 2026.
-- ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
--	The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2024.  
-- Shanghai Outstanding Graduate Student, Shanghai Municipal Education Commission, 2024.
-- Publicly Funded Postgraduate Scholarships, China Scholarship Council, 2022.
-- "HUAWEI CUP" 17th China Post-Graduate Mathematical Contest in Modeling 3rd Prize, 2020.
