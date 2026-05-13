@@ -94,9 +94,13 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 
 
 # 📖 Educations & Work Experience
-- *2024.09 - 2026.02*, Postdoctoral scholar at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, Hong Kong, China.
-- *2022.02 - 2024.02*, Visiting Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
-- *2019.09 - 2024.06*, Ph.D student at Software Engineering Institute, East China Normal University, Shanghai, China. 
+- *2025 – 2025*, Reaserch Interner, Tencent AI Lab (tencent.com).
+- *2024 – 2025*, Reaserch Interner, Happyelements, Inc. (happyelements.com).
+- *2023 – 2024*, Reaserch Interner, NetEase, Inc. (netease.com).
+- *2020 – 2025*, PhD student, Tongji University (tongji.edu.cn).
+- *2017 – 2020*, MS student, Nanjing University of Science and Technology (njust.edu.cn).
+
+
 
 
 <!-- # 💻 Internships
