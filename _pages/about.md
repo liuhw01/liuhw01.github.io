@@ -107,7 +107,7 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 - PC Member: FSE 2027
 - Junior PC: ICSE 2026, MSR 2025, MSR 2024
 - Sub-reviewer: NDSS 2026, ASE 2025, CCS 2025, OOPSLA 2025, IEEE S&P 2025, ISSTA 2025, Usenix Security 2025, ICSE 2025, NDSS 2025, ASE 2024, CCS 2024, ISSTA 2024, AISACCS 2024, WWW 2024, ASE 2023, FSE 2023, AILA 2023, FSE 2022, AILA 2022, Frontiers of Computer Science
-- Journal Reviewer: ACM Transactions on Software Engineering and Methodology, Cybersecurity.
+- Journal Reviewer: IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Multimedia, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Affective Computing, IEEE Transactions on Industrial Informatics, IEEE Signal Processing Letters, IEEE Access, IEEE/CAA Journal of Automatica Sinica
 
 
 # 🎖 Honors and Awards
