@@ -26,9 +26,9 @@ bibtex                   : "assets/bibtex/myref.bib"
 author:
   name             : "Hanwei Liu (刘汉伟)"
   avatar           : "/images/photo.jpg"
-  bio              : "A passionate researcher, a Huawei TopMind, currently exploring AI infra, AIGC, and 3D reconstruction."
+  bio              : "Huawei"
   location         : "Shanghai, China"
-  employer         : "Huawei"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0yCTQFEAAAAJ&hl=zh-CN"
   email            : liuhw01@gmail.com
