@@ -49,10 +49,9 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 # 📝 Selected Publications [[Full List](/publication/)]
 \* for the corresponding author.
 
-- [Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem.](https://www.usenix.org/conference/usenixsecurity26/presentation/huang-mingyuan)
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/UsenixSecurity-2026-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity26/) 
-  - Mingyuan Huang, **Han Liu***, Shuo Yang, Daoyuan Wu, and Shuai Wang.
-  - To appear in the Usenix Security 2026
+- [Norface: Improving Facial Expression Analysis by Identity Normalization.](https://arxiv.org/pdf/2407.15617)
+  - **Hanwei Liu**, Rudong An, Zhimeng Zhang, Bowen Ma, Wei Zhang, Yan Song, Yujing Hu, Wei Chen, and Yu Ding
+  - The 18th European Conference on Computer Vision (ECCV 2024)
 
 - [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts](https://ieeexplore.ieee.org/document/11334413) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://conf.researchr.org/home/ase-2025) 
