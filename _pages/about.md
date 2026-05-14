@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am now a Researcher at Huawei, selected for Huawei’s TopMind, focusing on AI applications powered by Huawei [MetaEngine](https://www.huawei.com/cn/huaweitech/cases/huawei-cloud-ai-develop-applications) such as Vision-Language-Action models, 3D Gaussian Splatting, and AIGC.
 I received my Ph.D. degree in 2025 from the School of Electronics and Information Engineering, Tongji University, where I was supervised by [Prof. Hui Xiao](https://cse.tongji.edu.cn/6b/71/c15580a158577/page.htm) and [Prof. Xuefeng Li](http://lixuefenglab.cn/).
-During my Ph.D., I worked as a research intern at Tencent(focused on **AIGC** and talking face), NetEase Fuxi AI Lab([Norface](https://norface-fea.github.io/): **top-1** in multiple FER/AU tasks, collaborated on [DiffSFSR](https://diffsfsr.github.io/) text-to-image generating **135** facial expressions), and Happy Elements(**AI-assisted game content**: 2D/3D lip-sync & facial retargeting, 3D motion & retargeting, 3D scene generation), where I had the opportunity to collaborate with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).
+During my Ph.D., I worked as a research intern at Tencent(focused on **AIGC** and talking face), NetEase Fuxi AI Lab([Norface](https://norface-fea.github.io/): first unified **top-1** across multiple FER/AU tasks, collaborated on [DiffSFSR](https://diffsfsr.github.io/) text-to-image generating **135** facial expressions), and Happy Elements(**AI-assisted game content**: 2D/3D lip-sync & facial retargeting, 3D motion & retargeting, 3D scene generation), where I had the opportunity to collaborate with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).
 My current research interests include Vision-Language-Action models, 3D Gaussian Splatting, and AI-generated content (AIGC). 
 In addition, <span style="color:red;"> I am actively involved in building AI infrastructure to enhance AI competitiveness through full-stack capabilities.  If you are interested, please feel free to reach out to me. </span>
 
@@ -31,7 +31,7 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 - *2025.03*: &nbsp;🎉🎉 Our work on multi-modal expressive personality recognition has been made public.
 - *2024.11*: &nbsp;🎉🎉 Our paper "Prior-based Objective Inference Mining Potential Uncertainty for Facial Expression Recognition" has been made public.
 - *2024.04*: &nbsp;🎉🎉 Congratulations to our Virtual Human Group for winning all five championships in the 6th ABAW Competition at CVPR 2024. 🏆
-- *2024.02*: &nbsp;🎉🎉 Our work on Norface has been accepted by ECCV 2024.
+- *2024.02*: &nbsp;🎉🎉 Our work on Norface has been accepted by ECCV 2024, .
 - *2024.02*: &nbsp;🎉🎉 Our work on diffsfsr has been accepted by CVPR 2024.
 - *2024.03*: &nbsp;🎉🎉 Our paper "Emotion knowledge-based fine-grained facial expression recognition." was accepted by Neurocomputing.
 - *2024.03*: &nbsp;🎉🎉 Our paper "A review of intelligent music generation systems. " was accepted by Neural Comput. Appl.
