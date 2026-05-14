@@ -75,6 +75,7 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 
 
 # 📖 Educations & Work Experience
+- *2025 – *, Researcher, Huawei, Inc. (huawei.com).
 - *2025 – 2025*, Research Intern, Tencent AI Lab (tencent.com).
 - *2024 – 2025*, Research Intern, Happyelements, Inc. (happyelements.com).
 - *2023 – 2024*, Research Intern, NetEase, Inc. (netease.com).
