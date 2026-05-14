@@ -61,38 +61,13 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
   - **Hanwei Liu**, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao
   - Proceedings of the 31st ACM International Conference on Multimedia (ACMMM 2024)
 
-- [Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study](https://ieeexplore.ieee.org/document/11334489) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://conf.researchr.org/home/ase-2025) 
-  - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Shuai Wang, Yang Liu
-  - The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
+- [A review of intelligent music generation systems](https://link.springer.com/article/10.1007/s00521-024-09418-2) 
+  - Lei Wang, Ziyi Zhao, **Hanwei Liu**, Junwei Pang, Yi Qin, Qidi Wu
+  - Neural Computing and Applications
 
-- [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24)
-  - **Han Liu**, Daoyuan Wu, Yuqiang Sun, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
-  - Usenix Security 2024 
-  - [Slides for Usenix Security 2024](/assets/pdf/ZepScope.pdf)
-
-- [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://doi.org/10.1145/3660772) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://conf.researchr.org/home/fse-2024) 
-  - Kaixuan Li, Yue Xue, Sen Chen, **Han Liu**, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, Yixiang Chen
-  - The ACM International Conference on the Foundations of Software Engineering (FSE 2024)
-  - ACM SIGSOFT Distinguished Paper award 🏆
-
-- [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/abs/10.1145/3597503.3639117)
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2024-blue?style=flat-square)](https://conf.researchr.org/home/icse-2024) 
-  - Yuqiang Sun, Daoyuan Wu, Yue Xue, **Han Liu**, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
-  - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024)  
-  - [Slides for ICSE 2024](/assets/pdf/GPTScanSlides.pdf)
-
-- [A Comprehensive Study on Quality Assurance Tools for Java](https://doi.org/10.1145/3597926.3598056) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)](https://conf.researchr.org/home/issta-2023) 
-  - **Han Liu**, Sen Chen, Ruitao Feng, Chengwei Liu, Kaixuan Li, Zhengzi Xu, Liming Nie, Yang Liu, Yixiang Chen
-  - The 32nd International Symposium on Software Testing and Analysis (ISSTA 2023)
-
-- [Survey on Trustworthiness Measurement for Artificial Intelligence Systems](http://www.jos.org.cn/1000-9825/6592.htm) 
-[![](https://img.shields.io/badge/RuanJianXueBao-blue?style=flat-square)]() 
-  - **Han Liu**,Kaixuan Li, Yixiang Chen.
-  - Ruan Jian Xue Bao/Journal of Software (in Chinese)
+- [Adaptive multilayer perceptual attention network for facial expression recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9750079)(https://www.usenix.org/conference/usenixsecurity24)
+  - **Hanwei Liu**, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao
+  - IEEE Transactions on Circuits and Systems for Video Technology
 
 
 # 📖 Educations & Work Experience
