@@ -68,7 +68,7 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
   - Lei Wang, Ziyi Zhao, **Hanwei Liu**, Junwei Pang, Yi Qin, Qidi Wu
   - Neural Computing and Applications
 
-- [Adaptive multilayer perceptual attention network for facial expression recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9750079)(https://www.usenix.org/conference/usenixsecurity24)
+- [Adaptive multilayer perceptual attention network for facial expression recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9750079)
   - **Hanwei Liu**, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao
   - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
 
