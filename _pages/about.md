@@ -49,6 +49,9 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 # 📝 Selected Publications [[Full List](/publication/)]
 \* for the corresponding author.
 
+- Happyface: High-Fidelity Audio-Driven Talking Face Generation.
+  - Under review
+
 - [Multi-modal expressive personality recognition in data non-ideal audiovisual based on multi-scale feature enhancement and modal augment.](https://arxiv.org/pdf/2503.06108?)
   - Weixuan Kong, Jinpeng Yu, Zijun Li, **Hanwei Liu**, Jiqing Qu, Hui Xiao, Xuefeng Li
   - Under review
