@@ -38,7 +38,8 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 - *2023.07*: &nbsp;🎉🎉 Our paper "FEDA: Fine-grained emotion difference analysis for facial expression recognition. " was accepted by BSPC.
 - *2023.07*: &nbsp;🎉🎉 Our paper "Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition" was accepted by ACM MM 2024.
 - *2022.05*: &nbsp;🎉🎉 Our paper "Adaptive Multilayer Perceptual Attention Network for Facial Expression Recognition" was accepted by IEEE TCSVT.
-
+- *2021.05*: &nbsp;🎉🎉 Our paper "Grasp Pose Detection Based on Shape Simplification" was accepted by Int. J. Humanoid Robotics.
+  
 <!-- - *2024.05*: &nbsp;🎉🎉 I have passed my Ph.D thesis defense.
 - *2024.04*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024.
 - *2023.12*: &nbsp;🎉🎉 Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted by ICSE 2024.
