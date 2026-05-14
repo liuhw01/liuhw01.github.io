@@ -28,7 +28,7 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our work on multi-modal expressive personality recognition has been made public.
+- *2025.08*: &nbsp;🎉🎉 Our work on multi-modal expressive personality recognition has been made public.
 - *2024.11*: &nbsp;🎉🎉 Our paper "Prior-based Objective Inference Mining Potential Uncertainty for Facial Expression Recognition" has been made public.
 - *2024.04*: &nbsp;🎉🎉 Congratulations to our Virtual Human Group for winning all five championships in the 6th ABAW Competition at CVPR 2024. 🏆
 - *2024.02*: &nbsp;🎉🎉 Our work on Norface has been accepted by ECCV 2024, .
