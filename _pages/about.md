@@ -23,7 +23,7 @@ During my Ph.D., I worked as a research intern at Tencent(focused on **AIGC** an
 My current research interests include Vision-Language-Action models, 3D Gaussian Splatting, and AI-generated content (AIGC). 
 In addition, <span style="color:red;"> I am actively involved in building AI infrastructure to enhance AI competitiveness through full-stack capabilities.  If you are interested, please feel free to reach out to me. </span>
 
-💬 liuhw01 AT gmail DOT cn
+💬 liuhw01 AT gmail DOT com
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
