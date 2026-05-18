@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am now a Researcher at Huawei, selected for Huawei’s TopMind, focusing on AI applications powered by Huawei [MetaEngine](https://www.huawei.com/cn/huaweitech/cases/huawei-cloud-ai-develop-applications) such as Vision-Language-Action models, 3D Gaussian Splatting, and AIGC, serving embodied intelligence and autonomous driving scenarios.
+Hi, I am now a Researcher at Huawei, selected for Huawei’s TopMind, focusing on AI applications powered by Huawei [MetaEngine](https://www.huawei.com/cn/huaweitech/cases/huawei-cloud-ai-develop-applications) and [MetaStudio](https://www.huaweicloud.com/product/mdh.html) such as Vision-Language-Action models, 3D Gaussian Splatting, and AIGC, serving embodied intelligence and autonomous driving scenarios.
 
 I received my Ph.D. degree in 2025 from the School of Electronics and Information Engineering, Tongji University, where I was supervised by [Prof. Hui Xiao](https://cse.tongji.edu.cn/6b/71/c15580a158577/page.htm) and [Prof. Xuefeng Li](http://lixuefenglab.cn/).
 During my Ph.D., I worked as a research intern at Tencent(focused on **AIGC** and talking face), NetEase Fuxi AI Lab([Norface](https://norface-fea.github.io/): **first unified top-1** across multiple FER/AU tasks, collaborated on [DiffSFSR](https://diffsfsr.github.io/) text-to-image generating **135** facial expressions), and Happy Elements(**AI-assisted game content**: 2D/3D lip-sync & facial retargeting, 3D motion & retargeting, 3D scene generation), where I had the opportunity to collaborate with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).
