@@ -17,6 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+Hi, I am currently a Researcher at Huawei, selected for Huawei’s TopMind program. I work on AI applications powered by Huawei [MetaEngine](https://www.huawei.com/cn/huaweitech/cases/huawei-cloud-ai-develop-applications) and [MetaStudio](https://www.huaweicloud.com/product/mdh.html), with a focus on 3D Gaussian Splatting/XDGS, digital human generation, embodied simulation, and Vision-Language-Action models for autonomous driving and embodied intelligence.
+
+I received my Ph.D. degree in 2025 from the School of Electronics and Information Engineering, Tongji University, where I was supervised by [Prof. Hui Xiao](https://cse.tongji.edu.cn/6b/71/c15580a158577/page.htm) and [Prof. Xuefeng Li](http://lixuefenglab.cn/). During my Ph.D., my research focused on facial expression recognition, affective computing, ambiguity modeling, and cross-domain generalization.
+
+I have also worked as a research intern at NetEase Fuxi AI Lab and Happy Elements AI Lab, where I collaborated with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate), former Chief AI Digital Human Expert at NetEase Fuxi. My work covered digital human algorithms and applications, including facial expression transfer and recognition, diffusion-based face generation, audio-driven lip-sync and facial animation, 2D-to-3D facial retargeting, and 3D motion retargeting. Representative projects include [Norface](https://norface-fea.github.io/), the first unified framework achieving top-1 results across multiple FER/AU tasks, and [DiffSFSR](https://diffsfsr.github.io/), a diffusion-based framework for generating and transferring 135 fine-grained facial expressions.
+
+At Huawei, I currently work on MetaEngine XDGS reconstruction and rendering, MetaStudio digital human quality enhancement, and frontier technology analysis for embodied intelligence and Vision-Language-Action models. My broader research and engineering interests lie in bridging frontier AI research, system-level implementation, and product-level deployment.
+
+My technical trajectory can be summarized as: facial expression recognition and affective computing → digital human generation and animation → 3DGS/XDGS reconstruction and rendering → embodied simulation and autonomous-driving VLA.
+
 Hi, I am now a Researcher at Huawei, selected for Huawei’s TopMind, focusing on AI applications powered by Huawei [MetaEngine](https://www.huawei.com/cn/huaweitech/cases/huawei-cloud-ai-develop-applications) and [MetaStudio](https://www.huaweicloud.com/product/mdh.html) such as Vision-Language-Action models, 3D Gaussian Splatting, and AIGC, serving embodied intelligence and autonomous driving scenarios.
 
 I received my Ph.D. degree in 2025 from the School of Electronics and Information Engineering, Tongji University, where I was supervised by [Prof. Hui Xiao](https://cse.tongji.edu.cn/6b/71/c15580a158577/page.htm) and [Prof. Xuefeng Li](http://lixuefenglab.cn/).
@@ -77,7 +88,6 @@ In addition, <span style="color:red;"> I am actively involved in building AI inf
 
 # 📖 Educations & Work Experience
 - *2025 – *, Researcher, Huawei, Inc. (huawei.com).
-- *2025 – 2025*, Research Intern, Tencent AI Lab (tencent.com).
 - *2024 – 2025*, Research Intern, Happyelements, Inc. (happyelements.com).
 - *2023 – 2024*, Research Intern, NetEase, Inc. (netease.com).
 - *2020 – 2025*, PhD student, Tongji University (tongji.edu.cn).
