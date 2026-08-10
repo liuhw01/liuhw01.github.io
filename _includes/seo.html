@@ -8,7 +8,11 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+<title>{{ site.title }}</title>
+
+<meta name="description" content="{{ seo_description }}">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Hanwei Liu">
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -72,4 +76,35 @@
 {% if site.baidu_site_verification %}
   <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
 {% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Hanwei Liu",
+  "alternateName": [
+    "刘汉伟",
+    "Liu Hanwei",
+    "liuhanwei",
+    "liuhw01"
+  ],
+  "url": "https://liuhw01.github.io/",
+  "jobTitle": "Researcher",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Huawei",
+    "alternateName": "华为",
+    "url": "https://www.huawei.com/"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Tongji University"
+  },
+  "sameAs": [
+    "https://github.com/liuhw01",
+    "https://scholar.google.com/citations?user=0yCTQFEAAAAJ",
+    "https://orcid.org/0000-0003-0568-8708",
+    "https://dblp.org/pid/220/7925.html"
+  ]
+}
+</script>
 <!-- end SEO -->
