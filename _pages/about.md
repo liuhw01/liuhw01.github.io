@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I am **Hanwei Liu (刘汉伟, Liu Hanwei)**, a researcher at **Huawei (华为)** and a member of Huawei's TopMind program. My research focuses on World Models, Vision-Language-Action (VLA), embodied intelligence, AIGC, 3D Gaussian Splatting (3DGS/XDGS), digital human generation, and 3D reconstruction.
+Hi, I am **Hanwei Liu (刘汉伟, Liu Hanwei)**, a researcher at **Huawei (华为)** and a member of Huawei's TopMind program. My research focuses on 2D/4D World Models, embodied intelligence, AIGC, 3D Gaussian Splatting (3DGS/XDGS), digital human generation, and 3D reconstruction.
 
 I am currently working on AI applications powered by Huawei [MetaEngine](https://www.huawei.com/) and [MetaStudio](https://www.huaweicloud.com/), including 3D Gaussian Splatting/XDGS, digital human generation, embodied simulation, and Vision-Language-Action models for autonomous driving and embodied intelligence.
 
 I received my Ph.D. degree in 2025 from the School of Electronics and Information Engineering, Tongji University, where I was supervised by [Prof. Hui Xiao](https://cse.tongji.edu.cn/6b/71/c15580a158577/page.htm) and [Prof. Xuefeng Li](http://lixuefenglab.cn/).
 During my Ph.D., I worked as a research intern at NetEase Fuxi AI Lab([Norface](https://norface-fea.github.io/): **first unified top-1** across multiple FER/AU tasks, collaborated on [DiffSFSR](https://diffsfsr.github.io/) text-to-image generating **135** facial expressions), and Happy Elements(**AI-assisted game content**: 2D/3D lip-sync & facial retargeting, 3D motion & retargeting, 3D scene generation), where I had the opportunity to collaborate with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate), former Chief AI Digital Human Expert at NetEase Fuxi. 
 
-My technical trajectory is: facial expression recognition and affective computing → digital human generation and animation → 3DGS/XDGS reconstruction and rendering → embodied simulation and autonomous-driving VLA. 
+My technical trajectory is: facial expression recognition and affective computing → digital human generation and animation → 3DGS/XDGS reconstruction and rendering → embodied simulation and world model. 
 
 💬<span style="color:red;"> liuhw01 AT gmail DOT com </span>
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
