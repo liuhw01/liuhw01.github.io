@@ -6,10 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hanwei Liu's Homepage"
-description              : "A passionate researcher, a Huawei TopMind, currently exploring World model, AIGC, and 3D reconstruction."
-repository               : "liuhw01/liuhw01.github.io"
-google_scholar_stats_use_cdn : true
+title : "Hanwei Liu (刘汉伟) | Huawei Researcher"
+
+description : "Hanwei Liu (刘汉伟, Liu Hanwei) is a researcher at Huawei (华为) and Huawei TopMind, working on World Models, Vision-Language-Action (VLA), embodied intelligence, AIGC, 3D Gaussian Splatting (3DGS), and 3D reconstruction."
+
+url : "https://liuhw01.github.io"
+
+repository : "liuhw01/liuhw01.github.io"
 
 # google analytics
 google_analytics_id      :  #p342874227 #G-6905Z49J6E # get google_analytics_id from https://analytics.google.com/analytics/
@@ -24,10 +27,10 @@ bibtex                   : "assets/bibtex/myref.bib"
 
 # Site Author
 author:
-  name             : "Hanwei Liu (刘汉伟)"
-  avatar           : "/images/profilenew.png"
-  bio              : "Huawei"
-  location         : "Shanghai, China"
+  name : "Hanwei Liu (刘汉伟)"
+  avatar : "/images/profilenew.png"
+  bio : "Researcher at Huawei (华为) | Huawei TopMind"
+  location : "Shanghai, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0yCTQFEAAAAJ&hl=zh-CN"
