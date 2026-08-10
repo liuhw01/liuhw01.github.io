@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I am **Hanwei Liu (刘汉伟, Liu Hanwei)**, a researcher at **Huawei (华为)** and a member of Huawei's TopMind program. My current research focuses on 2D/4D World Models, Physical AI, embodied intelligence, AIGC, and 3D Gaussian Splatting (3DGS/XDGS). I am particularly interested in building world models that bridge photorealistic rendering and physical dynamics, enabling realistic and physically plausible prediction, interaction, and simulation of the real world.
+Hi, I am **Hanwei Liu (刘汉伟, Liu Hanwei)**, a researcher at **Huawei (华为)** and a member of Huawei's TopMind program. My current research focuses on World Models, Physical AI, and 3D/4D scene representation and rendering. I am particularly interested in building world models that bridge photorealistic rendering and physical dynamics, enabling realistic and physically plausible prediction, interaction, and simulation of the real world.
 
 I am currently working on AI applications powered by Huawei [MetaEngine](https://www.huawei.com/) and [MetaStudio](https://www.huaweicloud.com/), including 3D/4D scene representation and rendering, digital human generation, generative world models, and physically grounded simulation for autonomous driving and embodied intelligence.
 
@@ -32,17 +32,15 @@ My technical trajectory is: facial expression recognition and affective computin
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our work on multi-modal expressive personality recognition has been made public.
-- *2024.11*: &nbsp;🎉🎉 Our paper "Prior-based Objective Inference Mining Potential Uncertainty for Facial Expression Recognition" has been made public.
-- *2024.04*: &nbsp;🎉🎉 Congratulations to our Virtual Human Group for winning all five championships in the 6th ABAW Competition at CVPR 2024. 🏆
-- *2024.02*: &nbsp;🎉🎉 Our work on Norface has been accepted by ECCV 2024, .
-- *2024.02*: &nbsp;🎉🎉 Our work on diffsfsr has been accepted by CVPR 2024.
-- *2024.03*: &nbsp;🎉🎉 Our paper "Emotion knowledge-based fine-grained facial expression recognition." was accepted by Neurocomputing.
-- *2024.03*: &nbsp;🎉🎉 Our paper "A review of intelligent music generation systems. " was accepted by Neural Comput. Appl.
-- *2023.07*: &nbsp;🎉🎉 Our paper "FEDA: Fine-grained emotion difference analysis for facial expression recognition. " was accepted by BSPC.
-- *2023.07*: &nbsp;🎉🎉 Our work on DUML was accepted by ACMMM 2024.
-- *2022.05*: &nbsp;🎉🎉 Our paper 'Adaptive Multilayer Perceptual Attention Network for Facial Expression Recognition' was accepted by IEEE TCSVT.
-- *2021.05*: &nbsp;🎉🎉 Our paper "Grasp Pose Detection Based on Shape Simplification" was accepted by Int. J. Humanoid Robotics.
+* *2026*:🎉🎉 I served as a reviewer for **ECCV 2026**.
+* *2025*:🎉🎉 I joined **Huawei** as a Researcher and was selected for Huawei's **TopMind** program.
+* *2025*:🎉🎉 Our work on **multi-modal expressive personality recognition** was made public.
+* *2025*:🎉🎉 I served as a reviewer for **CVPR 2025** and **ACM MM 2025**.
+* *2024*:🎉🎉 Our Virtual Human Group won **all five championships** in the 6th ABAW Competition at **CVPR 2024**. 🏆
+* *2024*:🎉🎉 Our work **Norface** was accepted by **ECCV 2024**.
+* *2024*:🎉🎉 Our work **DiffSFSR** was accepted by **CVPR 2024**.
+* *2023*:🎉🎉 Our work **DUML** was accepted by **ACM MM 2023**.
+
   
 <!-- - *2024.05*: &nbsp;🎉🎉 I have passed my Ph.D thesis defense.
 - *2024.04*: &nbsp;🎉🎉 Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024.
