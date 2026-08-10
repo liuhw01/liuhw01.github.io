@@ -65,7 +65,7 @@ My technical trajectory is: facial expression recognition and affective computin
 
 - [Learning from more: Combating uncertainty cross-multidomain for facial expression recognition](https://dl.acm.org/doi/pdf/10.1145/3581783.3611702) 
   - **Hanwei Liu**, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao
-  - Proceedings of the 31st ACM International Conference on Multimedia (ACMMM 2024)
+  - Proceedings of the 31st ACM International Conference on Multimedia (ACMMM 2023)
 
 - [A review of intelligent music generation systems](https://link.springer.com/article/10.1007/s00521-024-09418-2) 
   - Lei Wang, Ziyi Zhao, **Hanwei Liu**, Junwei Pang, Yi Qin, Qidi Wu
