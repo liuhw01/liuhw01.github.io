@@ -33,6 +33,7 @@ My technical trajectory is: facial expression recognition and affective computin
 
 # 🔥 News
 * *2026*:🎉🎉 I served as a reviewer for **ECCV 2026**.
+* *2026*:🎉🎉 [**Silver Palace**](https://silverpalace.elementagames.com/zh-tw/), a game I contributed to during my internship, will launch globally on **December 14, 2026**.
 * *2025*:🎉🎉 I joined **Huawei** as a Researcher and was selected for Huawei's **TopMind** program.
 * *2025*:🎉🎉 Our work on **multi-modal expressive personality recognition** was made public.
 * *2025*:🎉🎉 I served as a reviewer for **CVPR 2025** and **ACM MM 2025**.
